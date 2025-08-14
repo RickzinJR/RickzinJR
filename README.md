@@ -37,6 +37,10 @@
 ###
 
 <br clear="both">
+###
 
+<img src="https://raw.githubusercontent.com/RickzinJR/RickzinJR/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
