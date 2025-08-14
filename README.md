@@ -34,7 +34,4 @@
   </a>
 </div>
 
-#![snake gif](https://github.com/RickzinJR/RickzinJR/blob/output/github-contribution-grid-snake.gif)
-
-<br clear="both">
 
