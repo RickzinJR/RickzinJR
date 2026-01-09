@@ -2,7 +2,7 @@
 
 ###
 
-<img src="" alt="%">
+<img src="[Curriculo..pdf](https://github.com/user-attachments/files/24533874/Curriculo.pdf)" alt="#">
 
 ###
 
